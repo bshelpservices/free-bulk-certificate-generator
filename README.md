@@ -52,19 +52,11 @@ I built this tool using the latest web technologies to ensure speed and performa
 
 ---
 
-## 📸 Screenshots
-
-*(Add a screenshot of your builder here to show people what it looks like)*
-> ![Certificate Builder Dashboard](./public/screenshot-demo.png)
-
----
-
 ## 📫 Feedback & Support
 
 I am constantly improving this tool. If you find a bug or have a feature request, please reach out!
 
-* **Twitter/X:** [@YourHandle](https://twitter.com/YourHandle)
-* **Email:** [Your Email Optional]
+* **Email:** bshelpservices@gmail.com 
 
 ---
 
